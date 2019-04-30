@@ -1,0 +1,2 @@
+print:
+	@echo "Hola mundo";
